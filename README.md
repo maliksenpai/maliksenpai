@@ -62,5 +62,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3> Jok eTime </h3>
+<div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 

@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on frontend and mobile development
 - 💬 Ask me about anything
 - 📫 How to reach me: e.acunn@hotmail.com
+- 👀 My page: https://maliksenpai.github.io/portfolio/
 
 
 
